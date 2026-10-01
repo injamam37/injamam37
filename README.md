@@ -1,73 +1,94 @@
 # Hi, I'm Injamam Ansari 👋
 
-Software Developer with 3+ years of experience developing and maintaining the examination module of a multi-tenant academic ERP platform serving 14+ academic institutions across India.
+**.NET Software Engineer | C# | ASP.NET Core | Web API | SQL Server**
 
-Currently transitioning into modern ASP.NET Core backend development by building RESTful Web APIs and applying enterprise software design practices.
+Software Developer with 3.5 years of experience in enterprise .NET application development, maintenance and production support. Experienced in C#, .NET Framework, ASP.NET, ASP.NET Core MVC/Web API, SQL Server, T-SQL, ADO.NET and REST APIs.
+
+Worked on the Examination module of a multi-tenant academic ERP platform used by 14+ institutions, covering examination workflows, business rules, result processing, production troubleshooting, client-specific enhancements, UAT and deployments.
 
 ---
 
 ## 🔧 Tech Stack
 
-### Backend
+### Backend & Frameworks
 - C#
-- ASP.NET Core Web API
+- .NET
 - ASP.NET Web Forms
 - .NET Framework
+- ASP.NET Core MVC
+- ASP.NET Core Web API
 
-### Database
+### Database & Data
 - SQL Server
 - T-SQL
 - Stored Procedures
 - ADO.NET
+- Entity Framework Core
 
-### Tools & Technologies
+### Web & Tools
+- REST APIs
+- JavaScript
+- jQuery
 - Git
+- GitLab
+- GitHub
 - Visual Studio
 - IIS
 - Crystal Reports
-- REST APIs
-
-### Currently Learning
-- ASP.NET Core
-- Clean Architecture
-- Dependency Injection
-- Middleware
-- Service Layer Architecture
+- OpenAPI / Scalar
 
 ---
 
 ## 📌 Featured Project
 
-### Exam API Demo
+### Examination Management API
 
-ASP.NET Core Web API project built to modernize examination management functionality.
+ASP.NET Core Web API for examination, course and result management, built as a focused backend project based on examination-domain experience.
 
 **Key Features**
-- Full CRUD Operations
-- Dependency Injection
-- Service Layer Architecture
-- Global Exception Handling Middleware
+- Course CRUD operations
+- Examination mark entry and management
+- Result calculation with pass/fail and grade logic
 - Pagination
-- Soft Delete Pattern
+- Dependency Injection and service layer
+- Centralized exception handling
+- SQL Server with ADO.NET
+- OpenAPI / Scalar
 
-**Business Logic**
-- Component-level Pass/Fail Determination
-- Result Calculation
-- Grade Calculation
+🔗 **Repository:**  
+https://github.com/injamam37/Examination-Management-API
 
-The project is inspired by real examination workflows gained through 3+ years of enterprise ERP development experience.
+---
 
-🔗 Repository:  
-https://github.com/injamam37/Exam-API-Demo
+## 💼 Professional Experience
+
+**Software Developer — MasterSoft ERP Solutions Pvt. Ltd.**  
+Jan 2023 – Jul 2026
+
+- Developed and maintained the Examination module of a multi-tenant academic ERP used by 14+ institutions.
+- Implemented examination business rules, result processing and client-specific requirements using C# and SQL Server.
+- Developed and maintained SQL Server stored procedures for examination workflows and validation.
+- Handled production troubleshooting across application code, SQL Server and deployment environments.
+- Worked with QA, implementation, support and clients during UAT, deployments and issue resolution.
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science & Engineering**  
+Anjuman College of Engineering and Technology, Nagpur  
+RTM Nagpur University | 2018 – 2022
 
 ---
 
 ## 📫 Connect
 
-📍 Nagpur, Maharashtra, India
-
-💼 LinkedIn  
+💼 **LinkedIn**  
 https://www.linkedin.com/in/injamam-ansari
 
-🐙 GitHub  
+🐙 **GitHub**  
 https://github.com/injamam37
+
+📍 **Location:** Maharashtra, India
+
+💼 **Availability:** Immediately available
